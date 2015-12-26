@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Hbiz]]></title>
+        <description><![CDATA[Hbiz]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 26 Dec 2015 18:45:40 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[November-December 2015]]></title>
+            <description><![CDATA[<article><h1>November-December 2015</h1><p>by Paula DiPerna T he pens slipped easily across the paper, about every eight minutes. At regular intervals, Heads of State entered the innermost sanctum and solemnly signed their names, committing their nations to the Framework Convention on Climate Change. The year, 1992.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/aa17a26d04e628cabf81f44bf53094e4ea30469a.jpg"></article>]]></description>
+            <link>http://www.environmentmagazine.org/Archives/Back%20Issues/2015/November-December%202015/wallst_full.html</link>
+            <guid isPermaLink="false">447dc22d-2b13-4c39-86bd-c03c6e8f3e8f</guid>
+            <pubDate>Sat, 26 Dec 2015 18:45:34 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
