@@ -1,14 +1,28 @@
+name: Hbiz
+favicon: null
 layout_spectrum: 0.185134
+typography_spectrum: 0.8369112
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.9317572
-  brandStrength: 1
-  lightness: 0.8057116
-  rhythmicContrast: 0.445193
   brandColors:
     - '#F7EDF0'
     - '#F4CBC6'
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-typography_spectrum: 0.8369112
-name: Hbiz
+  brandStrength: 0
+  lightness: 0.8057116
+  saturation: 0.9317572
+  rhythmicContrast: 0.445193
+purpose: []
